@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build/cache/temp
+.swift-module-cache/
+tmp/
+output/
+.tmp_edit.swift
+
+# Local editor/OS files
+*.swp
+*.swo
+
+# Google Drive shortcut files
+*.gsheet
+
+# Google Drive shortcut files
+*.gsheet
