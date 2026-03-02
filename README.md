@@ -28,18 +28,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv --version
 ```
 
----
-
-### 2. このリポジトリをダウンロードする
-
-```bash
-git clone https://github.com/shgtkshruch/mysite.git
-cd mysite
-```
-
----
-
-### 3. 必要なライブラリをインストールする
+### 2. 必要なライブラリをインストールする
 
 以下のコマンドを実行すると、仮想環境の作成と必要なライブラリのインストールが自動で行われます。
 
